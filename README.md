@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Senior Software Engineering student and Flutter developer.
 - 👨‍💻 As a SE student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Dart, Flutter, and Firebase, or anything related to cross mobile applications development.
+- 💬 Ask me about my experience with Dart, Flutter, Firebase, or anything related to cross mobile applications development.
 
 
 ### Connect with Me :
