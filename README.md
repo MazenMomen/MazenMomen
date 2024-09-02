@@ -11,8 +11,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Senior Software Engineering student and Flutter developer.
-- 👨‍💻 As a SE student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🏢 I'm a Fresh Graduate Software Engineer and Flutter developer.
+- 👨‍💻 As a SE , I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Dart, Flutter, Firebase, or anything related to cross mobile applications development.
 
 
