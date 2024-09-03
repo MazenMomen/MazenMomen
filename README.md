@@ -13,7 +13,8 @@
 
 - 🏢 I'm a Fresh Graduate Software Engineer and Flutter developer.
 - 👨‍💻 As a SE , I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Dart, Flutter, Firebase, or anything related to cross mobile applications development.
+- 💬 Ask me about my experience with Flutter, Dart.
+- 📫 How to reach me mazenmoamen02@gmail.com
 
 
 ### Connect with Me :
@@ -22,13 +23,12 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
-
 
 
 
